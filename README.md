@@ -10,8 +10,8 @@ every time the button is clicked.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/dannyswagg/Advice-Gen)
+- Live Site URL: [Add live site URL here](https://dannyswagg.github.io/Advice-Gen/)
 
 ## My process
 
